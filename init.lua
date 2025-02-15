@@ -3,3 +3,4 @@ require("config.lazy")
 
 -- powershell as default
 vim.o.shell = "powershell.exe"
+vim.cmd("colorscheme cyberdream")
